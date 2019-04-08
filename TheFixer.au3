@@ -3,6 +3,8 @@
 #include <File.au3>
 #include <Array.au3>
 
+
+
 $DisplaySettings = @ScriptDir & "\images\displaysettings.bmp"
 $GraphicsSettings = @ScriptDir & "\images\graphicssettings.bmp"
 $Browse = @ScriptDir & "\images\browse.bmp"
@@ -17,6 +19,18 @@ Global $allreadfromlog[1000]
 Global $AllNotLoadedYet[1000]
 
 ;;Start Coding
+
+MsgBox(0, "Automator", "Press OK when ready, close other open windows, and SPAM ESCAPE to FORCE QUIT!")
+
+HotKeySet("{Esc}", "_quit") ; Restart
+
+Func _quit()
+	Exit
+EndFunc   ;==>EmergencyCrash
+
+;~ TrayTip("RUNNING!", "PRESS ESCAPE TO FORCE QUIT!", 20)
+;~ Sleep(20000)
+
 
 $numlines = _FileCountLines($fnAlreadyLoaded)
 ConsoleWrite($numlines & " number of line in LOG file!" & @CRLF)
