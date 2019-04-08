@@ -1,3 +1,7 @@
+#Region ;**** Directives created by AutoIt3Wrapper_GUI ****
+#AutoIt3Wrapper_Run_Au3Stripper=y
+#Au3Stripper_Parameters=/sv /sf
+#EndRegion ;**** Directives created by AutoIt3Wrapper_GUI ****
 #include <ImageSearchEasy.au3>
 #include "UIA\UIAWrappers.au3"
 #include <File.au3>
@@ -21,6 +25,7 @@ Global $AllNotLoadedYet[1000]
 ;;Start Coding
 
 MsgBox(0, "Automator", "Press OK when ready, close other open windows, and SPAM ESCAPE to FORCE QUIT!")
+Sleep(500)
 
 HotKeySet("{Esc}", "_quit") ; Restart
 
