@@ -1,4 +1,8 @@
-#AutoIt3Wrapper_Au3Check_Parameters=-d -w 1 -w 2 -w 3 -w 4 -w 5 -w 6 -w 7
+#Region ;**** Directives created by AutoIt3Wrapper_GUI ****
+#AutoIt3Wrapper_AU3Check_Parameters=-d -w 1 -w 2 -w 3 -w 4 -w 5 -w 6 -w 7
+#AutoIt3Wrapper_Run_Au3Stripper=y
+#Au3Stripper_Parameters=/sf
+#EndRegion ;**** Directives created by AutoIt3Wrapper_GUI ****
 
 #include "UIASpy\Includes\UIA_Constants.au3" ; Can be copied from UIASpy Includes folder
 #include <Array.au3>
