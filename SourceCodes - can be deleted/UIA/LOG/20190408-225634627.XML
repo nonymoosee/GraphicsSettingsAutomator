@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><log space="preserve"><logline level="5" timestamp="20190408-225634634"> <information> Information _UIA_VersionInfo version: T0.6-6; Release date: 20181104; OS Version: WIN_10</information></logline>
+<logline level="5" timestamp="20190408-225634635"> _UIA_normalizeExpression Title:=Settings;controltype:=UIA_WindowControlTypeId;class:=ApplicationFrameWindow;elements 1-3in properties array</logline>
+<logline level="5" timestamp="20190408-225634635">   _UIA_getObjectByFindAll property 1 Title:=Settings</logline>
+<logline level="5" timestamp="20190408-225634635">  name:[Title] value:[Settings] having index 3</logline>
+<logline level="5" timestamp="20190408-225634636">   _UIA_getObjectByFindAll property 2 controltype:=UIA_WindowControlTypeId</logline>
+<logline level="5" timestamp="20190408-225634636">  name:[controltype] value:[50032] having index 15</logline>
+<logline level="5" timestamp="20190408-225634637">   _UIA_getObjectByFindAll property 3 class:=ApplicationFrameWindow</logline>
+<logline level="5" timestamp="20190408-225634637">  name:[class] value:[ApplicationFrameWindow] having index 6</logline>
+<logline level="5" timestamp="20190408-225634637"> *** Try to get a list of elements *** treescopetype:=2</logline>
+<logline level="0" timestamp="20190408-225635131"> _UIA_getObjectByFindAll walk thru the tree with n elements where n equals 6</logline>
+<logline level="5" timestamp="20190408-225635138"> Found match with element: 2 the Name is: &lt;Title is: &lt;Settings&gt;	Class   := &lt;ApplicationFrameWindow&gt;	controltype:= &lt;UIA_WindowControlTypeId&gt;	,&lt;50032&gt;	, (0000C370)	rect := &lt; 28;66;657;934&gt;	hwnd := &lt; 1640004&gt;	acceleratorkey := &lt; &gt;	automationid := &lt;&gt;
+</logline>
+<logline level="5" timestamp="20190408-225635138"> <propertymatching></propertymatching></logline>
+<logline level="5" timestamp="20190408-225635141"> Storing parent for found object in RTI as RTI.PARENT Desktop 1</logline>
+<logline level="0" timestamp="20190408-225635268"> </logline>
+<logline level="0" timestamp="20190408-225635269"> Quickly referenced object :
+&lt;action&gt;Action 1 setfocus on  _UIA_IsElement:=1 Parameters 1:=0 2:=0 3:=0 4:=0&lt;/action&gt;</logline>
+<logline level="5" timestamp="20190408-225635523"> _UIA_normalizeExpression Title:=Settings;controltype:=UIA_WindowControlTypeId;class:=Windows.UI.Core.CoreWindow;elements 1-3in properties array</logline>
+<logline level="5" timestamp="20190408-225635523">   _UIA_getObjectByFindAll property 1 Title:=Settings</logline>
+<logline level="5" timestamp="20190408-225635523">  name:[Title] value:[Settings] having index 3</logline>
+<logline level="5" timestamp="20190408-225635524">   _UIA_getObjectByFindAll property 2 controltype:=UIA_WindowControlTypeId</logline>
+<logline level="5" timestamp="20190408-225635524">  name:[controltype] value:[50032] having index 15</logline>
+<logline level="5" timestamp="20190408-225635524">   _UIA_getObjectByFindAll property 3 class:=Windows.UI.Core.CoreWindow</logline>
+<logline level="5" timestamp="20190408-225635525">  name:[class] value:[Windows.UI.Core.CoreWindow] having index 6</logline>
+<logline level="5" timestamp="20190408-225635525"> *** Try to get a list of elements *** treescopetype:=2</logline>
+<logline level="0" timestamp="20190408-225635534"> _UIA_getObjectByFindAll walk thru the tree with n elements where n equals 4</logline>
+<logline level="5" timestamp="20190408-225635538"> Found match with element: 2 the Name is: &lt;Title is: &lt;Settings&gt;	Class   := &lt;Windows.UI.Core.CoreWindow&gt;	controltype:= &lt;UIA_WindowControlTypeId&gt;	,&lt;50032&gt;	, (0000C370)	rect := &lt; 36;66;641;926&gt;	hwnd := &lt; 3671730&gt;	acceleratorkey := &lt; &gt;	automationid := &lt;&gt;
+</logline>
+<logline level="5" timestamp="20190408-225635538"> <propertymatching></propertymatching></logline>
+<logline level="5" timestamp="20190408-225635539"> Storing parent for found object in RTI as RTI.PARENT Settings</logline>
+<logline level="0" timestamp="20190408-225635667"> </logline>
+<logline level="0" timestamp="20190408-225635668"> Quickly referenced object :
+&lt;action&gt;Action 2 setfocus on  _UIA_IsElement:=1 Parameters 1:=0 2:=0 3:=0 4:=0&lt;/action&gt;</logline>
+<logline level="5" timestamp="20190408-225635922"> _UIA_normalizeExpression Title:=;controltype:=UIA_GroupControlTypeId;class:=LandmarkTarget;elements 1-3in properties array</logline>
+<logline level="5" timestamp="20190408-225635922">   _UIA_getObjectByFindAll property 1 Title:=</logline>
+<logline level="5" timestamp="20190408-225635922">  name:[Title] value:[] having index 3</logline>
+<logline level="5" timestamp="20190408-225635923">   _UIA_getObjectByFindAll property 2 controltype:=UIA_GroupControlTypeId</logline>
+<logline level="5" timestamp="20190408-225635923">  name:[controltype] value:[50026] having index 15</logline>
+<logline level="5" timestamp="20190408-225635923">   _UIA_getObjectByFindAll property 3 class:=LandmarkTarget</logline>
+<logline level="5" timestamp="20190408-225635924">  name:[class] value:[LandmarkTarget] having index 6</logline>
+<logline level="5" timestamp="20190408-225635924"> *** Try to get a list of elements *** treescopetype:=2</logline>
+<logline level="0" timestamp="20190408-225635926"> _UIA_getObjectByFindAll walk thru the tree with n elements where n equals 4</logline>
+<logline level="5" timestamp="20190408-225635932"> Found match with element: 3 the Name is: &lt;Title is: &lt;&gt;	Class   := &lt;LandmarkTarget&gt;	controltype:= &lt;UIA_GroupControlTypeId&gt;	,&lt;50026&gt;	, (0000C36A)	rect := &lt; 36;162;641;830&gt;	hwnd := &lt; 0&gt;	acceleratorkey := &lt; &gt;	automationid := &lt;pageContent&gt;
+</logline>
+<logline level="5" timestamp="20190408-225635932"> <propertymatching></propertymatching></logline>
+<logline level="5" timestamp="20190408-225635934"> Storing parent for found object in RTI as RTI.PARENT Settings</logline>
+<logline level="5" timestamp="20190408-225636068"> _UIA_normalizeExpression Title:=;controltype:=UIA_PaneControlTypeId;class:=ScrollViewer;elements 1-3in properties array</logline>
+<logline level="5" timestamp="20190408-225636068">   _UIA_getObjectByFindAll property 1 Title:=</logline>
+<logline level="5" timestamp="20190408-225636068">  name:[Title] value:[] having index 3</logline>
+<logline level="5" timestamp="20190408-225636069">   _UIA_getObjectByFindAll property 2 controltype:=UIA_PaneControlTypeId</logline>
+<logline level="5" timestamp="20190408-225636069">  name:[controltype] value:[50033] having index 15</logline>
+<logline level="5" timestamp="20190408-225636069">   _UIA_getObjectByFindAll property 3 class:=ScrollViewer</logline>
+<logline level="5" timestamp="20190408-225636070">  name:[class] value:[ScrollViewer] having index 6</logline>
+<logline level="5" timestamp="20190408-225636070"> *** Try to get a list of elements *** treescopetype:=2</logline>
+<logline level="0" timestamp="20190408-225636071"> _UIA_getObjectByFindAll walk thru the tree with n elements where n equals 1</logline>
+<logline level="5" timestamp="20190408-225636073"> Found match with element: 0 the Name is: &lt;Title is: &lt;&gt;	Class   := &lt;ScrollViewer&gt;	controltype:= &lt;UIA_PaneControlTypeId&gt;	,&lt;50033&gt;	, (0000C371)	rect := &lt; 36;162;641;830&gt;	hwnd := &lt; 0&gt;	acceleratorkey := &lt; &gt;	automationid := &lt;ItemsControlScrollViewer&gt;
+</logline>
+<logline level="5" timestamp="20190408-225636073"> <propertymatching></propertymatching></logline>
+<logline level="5" timestamp="20190408-225636074"> Storing parent for found object in RTI as RTI.PARENT </logline>
+<logline level="5" timestamp="20190408-225636200"> _UIA_normalizeExpression Title:=Graphics performance preference;controltype:=UIA_GroupControlTypeId;class:=GroupItem;elements 1-3in properties array</logline>
+<logline level="5" timestamp="20190408-225636201">   _UIA_getObjectByFindAll property 1 Title:=Graphics performance preference</logline>
+<logline level="5" timestamp="20190408-225636201">  name:[Title] value:[Graphics performance preference] having index 3</logline>
+<logline level="5" timestamp="20190408-225636201">   _UIA_getObjectByFindAll property 2 controltype:=UIA_GroupControlTypeId</logline>
+<logline level="5" timestamp="20190408-225636202">  name:[controltype] value:[50026] having index 15</logline>
+<logline level="5" timestamp="20190408-225636202">   _UIA_getObjectByFindAll property 3 class:=GroupItem</logline>
+<logline level="5" timestamp="20190408-225636202">  name:[class] value:[GroupItem] having index 6</logline>
+<logline level="5" timestamp="20190408-225636203"> *** Try to get a list of elements *** treescopetype:=2</logline>
+<logline level="0" timestamp="20190408-225636204"> _UIA_getObjectByFindAll walk thru the tree with n elements where n equals 4</logline>
+<logline level="5" timestamp="20190408-225636206"> Found match with element: 0 the Name is: &lt;Title is: &lt;Graphics performance preference&gt;	Class   := &lt;GroupItem&gt;	controltype:= &lt;UIA_GroupControlTypeId&gt;	,&lt;50026&gt;	, (0000C36A)	rect := &lt; 42;186;458;806&gt;	hwnd := &lt; 0&gt;	acceleratorkey := &lt; &gt;	automationid := &lt;&gt;
+</logline>
+<logline level="5" timestamp="20190408-225636206"> <propertymatching></propertymatching></logline>
+<logline level="5" timestamp="20190408-225636207"> Storing parent for found object in RTI as RTI.PARENT </logline>
+<logline level="5" timestamp="20190408-225636334"> _UIA_normalizeExpression title:=Browse;ControlType:=UIA_ButtonControlTypeId;elements 1-2in properties array</logline>
+<logline level="5" timestamp="20190408-225636334">   _UIA_getObjectByFindAll property 1 title:=Browse</logline>
+<logline level="5" timestamp="20190408-225636334">  name:[title] value:[Browse] having index 3</logline>
+<logline level="5" timestamp="20190408-225636335">   _UIA_getObjectByFindAll property 2 ControlType:=UIA_ButtonControlTypeId</logline>
+<logline level="5" timestamp="20190408-225636335">  name:[ControlType] value:[50000] having index 15</logline>
+<logline level="5" timestamp="20190408-225636335"> *** Try to get a list of elements *** treescopetype:=7</logline>
+<logline level="0" timestamp="20190408-225636376"> _UIA_getObjectByFindAll walk thru the tree with n elements where n equals 228</logline>
+<logline level="5" timestamp="20190408-225636387"> Found match with element: 6 the Name is: &lt;Title is: &lt;Browse&gt;	Class   := &lt;Button&gt;	controltype:= &lt;UIA_ButtonControlTypeId&gt;	,&lt;50000&gt;	, (0000C350)	rect := &lt; 52;410;90;32&gt;	hwnd := &lt; 0&gt;	acceleratorkey := &lt; &gt;	automationid := &lt;SystemSettings_AdvancedGraphics_SelectClassicApp_Button&gt;
+</logline>
+<logline level="5" timestamp="20190408-225636387"> <propertymatching></propertymatching></logline>
+<logline level="5" timestamp="20190408-225636388"> Storing parent for found object in RTI as RTI.PARENT Graphics performance preference</logline>
+<logline level="0" timestamp="20190408-225636519"> </logline>
+<logline level="0" timestamp="20190408-225636543"> Quickly referenced object :
+&lt;action&gt;Action 3 click on  _UIA_IsElement:=1 Parameters 1:=0 2:=0 3:=0 4:=0&lt;/action&gt;</logline>
+</log>

@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><log space="preserve"><logline level="5" timestamp="20190408-225611241"> <information> Information _UIA_VersionInfo version: T0.6-6; Release date: 20181104; OS Version: WIN_10</information></logline>
+<logline level="0" timestamp="20190408-225611242"> </logline>
+<logline level="0" timestamp="20190408-225611870"> _UIA_action: No RTI.SEARCHCONTEXT used for oP1
+_UIA_action: try for RTI.MAINWINDOW
+_UIA_action: Finding object oP1 object a:=0 under RTI.MAINWINDOW object b:=1
+  looking for Title:=Settings;controltype:=UIA_WindowControlTypeId;class:=ApplicationFrameWindow
+_UIA_normalizeExpression Title:=Settings;controltype:=UIA_WindowControlTypeId;class:=ApplicationFrameWindow;elements 1-3in properties array
+  _UIA_getObjectByFindAll property 1 Title:=Settings
+ name:[Title] value:[Settings] having index 3
+  _UIA_getObjectByFindAll property 2 controltype:=UIA_WindowControlTypeId
+ name:[controltype] value:[50032] having index 15
+  _UIA_getObjectByFindAll property 3 class:=ApplicationFrameWindow
+ name:[class] value:[ApplicationFrameWindow] having index 6
+*** Try to get a list of elements *** treescopetype:=2
+_UIA_getObjectByFindAll walk thru the tree with n elements where n equals 6Found match with element: 2 the Name is: &lt;Title is: &lt;Settings&gt;	Class   := &lt;ApplicationFrameWindow&gt;	controltype:= &lt;UIA_WindowControlTypeId&gt;	,&lt;50032&gt;	, (0000C370)	rect := &lt; 28;66;657;934&gt;	hwnd := &lt; 1640004&gt;	acceleratorkey := &lt; &gt;	automationid := &lt;&gt;
+
+&lt;propertymatching&gt;&lt;/propertymatching&gt;Storing parent for found object in RTI as RTI.PARENT Desktop 1
+&lt;action&gt;Action 1 setfocus on oP1 _UIA_IsElement:=1 Parameters 1:=0 2:=0 3:=0 4:=0&lt;/action&gt;</logline>
+<logline level="0" timestamp="20190408-225612129"> </logline>
+<logline level="0" timestamp="20190408-225612268"> _UIA_action: Finding object oP2 object a:=0 under RTI.SEARCHCONTEXT object b:=1
+  looking for Title:=Settings;controltype:=UIA_WindowControlTypeId;class:=Windows.UI.Core.CoreWindow
+_UIA_normalizeExpression Title:=Settings;controltype:=UIA_WindowControlTypeId;class:=Windows.UI.Core.CoreWindow;elements 1-3in properties array
+  _UIA_getObjectByFindAll property 1 Title:=Settings
+ name:[Title] value:[Settings] having index 3
+  _UIA_getObjectByFindAll property 2 controltype:=UIA_WindowControlTypeId
+ name:[controltype] value:[50032] having index 15
+  _UIA_getObjectByFindAll property 3 class:=Windows.UI.Core.CoreWindow
+ name:[class] value:[Windows.UI.Core.CoreWindow] having index 6
+*** Try to get a list of elements *** treescopetype:=2
+_UIA_getObjectByFindAll walk thru the tree with n elements where n equals 4Found match with element: 2 the Name is: &lt;Title is: &lt;Settings&gt;	Class   := &lt;Windows.UI.Core.CoreWindow&gt;	controltype:= &lt;UIA_WindowControlTypeId&gt;	,&lt;50032&gt;	, (0000C370)	rect := &lt; 36;66;641;926&gt;	hwnd := &lt; 3671730&gt;	acceleratorkey := &lt; &gt;	automationid := &lt;&gt;
+
+&lt;propertymatching&gt;&lt;/propertymatching&gt;Storing parent for found object in RTI as RTI.PARENT Settings
+&lt;action&gt;Action 2 setfocus on oP2 _UIA_IsElement:=1 Parameters 1:=0 2:=0 3:=0 4:=0&lt;/action&gt;</logline>
+<logline level="0" timestamp="20190408-225612522"> </logline>
+<logline level="0" timestamp="20190408-225612669"> _UIA_action: Finding object oP3 object a:=0 under RTI.SEARCHCONTEXT object b:=1
+  looking for Title:=;controltype:=UIA_GroupControlTypeId;class:=LandmarkTarget
+_UIA_normalizeExpression Title:=;controltype:=UIA_GroupControlTypeId;class:=LandmarkTarget;elements 1-3in properties array
+  _UIA_getObjectByFindAll property 1 Title:=
+ name:[Title] value:[] having index 3
+  _UIA_getObjectByFindAll property 2 controltype:=UIA_GroupControlTypeId
+ name:[controltype] value:[50026] having index 15
+  _UIA_getObjectByFindAll property 3 class:=LandmarkTarget
+ name:[class] value:[LandmarkTarget] having index 6
+*** Try to get a list of elements *** treescopetype:=2
+_UIA_getObjectByFindAll walk thru the tree with n elements where n equals 4Found match with element: 3 the Name is: &lt;Title is: &lt;&gt;	Class   := &lt;LandmarkTarget&gt;	controltype:= &lt;UIA_GroupControlTypeId&gt;	,&lt;50026&gt;	, (0000C36A)	rect := &lt; 36;162;641;830&gt;	hwnd := &lt; 0&gt;	acceleratorkey := &lt; &gt;	automationid := &lt;pageContent&gt;
+
+&lt;propertymatching&gt;&lt;/propertymatching&gt;Storing parent for found object in RTI as RTI.PARENT Settings
+&lt;action&gt;Action 3 setfocus on oP3 _UIA_IsElement:=1 Parameters 1:=0 2:=0 3:=0 4:=0&lt;/action&gt;</logline>
+<logline level="0" timestamp="20190408-225612923"> </logline>
+<logline level="0" timestamp="20190408-225613051"> _UIA_action: Finding object oP4 object a:=0 under RTI.SEARCHCONTEXT object b:=1
+  looking for Title:=;controltype:=UIA_PaneControlTypeId;class:=ScrollViewer
+_UIA_normalizeExpression Title:=;controltype:=UIA_PaneControlTypeId;class:=ScrollViewer;elements 1-3in properties array
+  _UIA_getObjectByFindAll property 1 Title:=
+ name:[Title] value:[] having index 3
+  _UIA_getObjectByFindAll property 2 controltype:=UIA_PaneControlTypeId
+ name:[controltype] value:[50033] having index 15
+  _UIA_getObjectByFindAll property 3 class:=ScrollViewer
+ name:[class] value:[ScrollViewer] having index 6
+*** Try to get a list of elements *** treescopetype:=2
+_UIA_getObjectByFindAll walk thru the tree with n elements where n equals 1Found match with element: 0 the Name is: &lt;Title is: &lt;&gt;	Class   := &lt;ScrollViewer&gt;	controltype:= &lt;UIA_PaneControlTypeId&gt;	,&lt;50033&gt;	, (0000C371)	rect := &lt; 36;162;641;830&gt;	hwnd := &lt; 0&gt;	acceleratorkey := &lt; &gt;	automationid := &lt;ItemsControlScrollViewer&gt;
+
+&lt;propertymatching&gt;&lt;/propertymatching&gt;Storing parent for found object in RTI as RTI.PARENT 
+&lt;action&gt;Action 4 setfocus on oP4 _UIA_IsElement:=1 Parameters 1:=0 2:=0 3:=0 4:=0&lt;/action&gt;</logline>
+<logline level="0" timestamp="20190408-225613305"> </logline>
+<logline level="0" timestamp="20190408-225613435"> _UIA_action: Finding object oP5 object a:=0 under RTI.SEARCHCONTEXT object b:=1
+  looking for Title:=Graphics performance preference;controltype:=UIA_GroupControlTypeId;class:=GroupItem
+_UIA_normalizeExpression Title:=Graphics performance preference;controltype:=UIA_GroupControlTypeId;class:=GroupItem;elements 1-3in properties array
+  _UIA_getObjectByFindAll property 1 Title:=Graphics performance preference
+ name:[Title] value:[Graphics performance preference] having index 3
+  _UIA_getObjectByFindAll property 2 controltype:=UIA_GroupControlTypeId
+ name:[controltype] value:[50026] having index 15
+  _UIA_getObjectByFindAll property 3 class:=GroupItem
+ name:[class] value:[GroupItem] having index 6
+*** Try to get a list of elements *** treescopetype:=2
+_UIA_getObjectByFindAll walk thru the tree with n elements where n equals 4Found match with element: 0 the Name is: &lt;Title is: &lt;Graphics performance preference&gt;	Class   := &lt;GroupItem&gt;	controltype:= &lt;UIA_GroupControlTypeId&gt;	,&lt;50026&gt;	, (0000C36A)	rect := &lt; 42;186;458;806&gt;	hwnd := &lt; 0&gt;	acceleratorkey := &lt; &gt;	automationid := &lt;&gt;
+
+&lt;propertymatching&gt;&lt;/propertymatching&gt;Storing parent for found object in RTI as RTI.PARENT 
+&lt;action&gt;Action 5 setfocus on oP5 _UIA_IsElement:=1 Parameters 1:=0 2:=0 3:=0 4:=0&lt;/action&gt;</logline>
+<logline level="0" timestamp="20190408-225613689"> </logline>
+<logline level="0" timestamp="20190408-225613835"> _UIA_action: Finding object oUIElement object a:=0 under RTI.SEARCHCONTEXT object b:=1
+  looking for Title:=Browse;controltype:=UIA_ButtonControlTypeId;class:=Button
+_UIA_normalizeExpression Title:=Browse;controltype:=UIA_ButtonControlTypeId;class:=Button;elements 1-3in properties array
+  _UIA_getObjectByFindAll property 1 Title:=Browse
+ name:[Title] value:[Browse] having index 3
+  _UIA_getObjectByFindAll property 2 controltype:=UIA_ButtonControlTypeId
+ name:[controltype] value:[50000] having index 15
+  _UIA_getObjectByFindAll property 3 class:=Button
+ name:[class] value:[Button] having index 6
+*** Try to get a list of elements *** treescopetype:=2
+_UIA_getObjectByFindAll walk thru the tree with n elements where n equals 6Found match with element: 4 the Name is: &lt;Title is: &lt;Browse&gt;	Class   := &lt;Button&gt;	controltype:= &lt;UIA_ButtonControlTypeId&gt;	,&lt;50000&gt;	, (0000C350)	rect := &lt; 52;410;90;32&gt;	hwnd := &lt; 0&gt;	acceleratorkey := &lt; &gt;	automationid := &lt;SystemSettings_AdvancedGraphics_SelectClassicApp_Button&gt;
+
+&lt;propertymatching&gt;&lt;/propertymatching&gt;Storing parent for found object in RTI as RTI.PARENT Graphics performance preference
+&lt;action&gt;Action 6 click on oUIElement _UIA_IsElement:=1 Parameters 1:=0 2:=0 3:=0 4:=0&lt;/action&gt;</logline>
+</log>

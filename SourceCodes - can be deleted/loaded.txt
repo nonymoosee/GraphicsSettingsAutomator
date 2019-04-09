@@ -1,0 +1,23 @@
+C:\Riot Games\League of Legends\LeagueClient.exe
+C:\Riot Games\League of Legends\lol.launcher.admin.exe
+C:\Riot Games\League of Legends\lol.launcher.exe
+C:\Riot Games\League of Legends\Uninstall League of Legends.exe
+C:\Riot Games\League of Legends\RADS\projects\league_client\releases\installer\deploy\BsSndRpt.exe
+C:\Riot Games\League of Legends\RADS\projects\league_client\releases\installer\deploy\jpatch.exe
+C:\Riot Games\League of Legends\RADS\projects\league_client\releases\installer\deploy\LeagueClient.exe
+C:\Riot Games\League of Legends\RADS\projects\league_client\releases\installer\deploy\LeagueClientUx.exe
+C:\Riot Games\League of Legends\RADS\projects\league_client\releases\installer\deploy\LeagueClientUxRender.exe
+C:\Riot Games\League of Legends\RADS\projects\league_client\releases\0.0.0.195\deploy\BsSndRpt.exe
+C:\Riot Games\League of Legends\RADS\projects\league_client\releases\0.0.0.195\deploy\jpatch.exe
+C:\Riot Games\League of Legends\RADS\projects\league_client\releases\0.0.0.195\deploy\LeagueClient.exe
+C:\Riot Games\League of Legends\RADS\projects\league_client\releases\0.0.0.195\deploy\LeagueClientUx.exe
+C:\Riot Games\League of Legends\RADS\projects\league_client\releases\0.0.0.195\deploy\LeagueClientUxRender.exe
+C:\Riot Games\League of Legends\RADS\projects\league_client\releases\0.0.0.194\deploy\BsSndRpt.exe
+C:\Riot Games\League of Legends\RADS\projects\league_client\releases\0.0.0.194\deploy\jpatch.exe
+C:\Riot Games\League of Legends\RADS\projects\league_client\releases\0.0.0.194\deploy\LeagueClient.exe
+C:\Riot Games\League of Legends\RADS\projects\league_client\releases\0.0.0.194\deploy\LeagueClientUx.exe
+C:\Riot Games\League of Legends\RADS\projects\league_client\releases\0.0.0.194\deploy\LeagueClientUxRender.exe
+C:\Riot Games\League of Legends\Game\BsSndRpt.exe
+C:\Riot Games\League of Legends\Game\League of Legends.exe
+C:\Riot Games\League of Legends\Game\LeagueCrashHandler.exe
+C:\Riot Games\League of Legends\BsSndRpt.exe
